@@ -7,7 +7,7 @@ Using Exploratory Data Analysis (EDA), we also provide recommendation insights s
 
 ## 🛠️ Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Jupyter Notebook / Google Colab  
+- Google Colab  
 - Dataset: TMDB 5000 Movies (Kaggle)  
 
 ## 🔍 Key Analyses
